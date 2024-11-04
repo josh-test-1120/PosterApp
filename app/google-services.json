@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510984954496",
+    "project_id": "joshtest-f2aa2",
+    "storage_bucket": "joshtest-f2aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510984954496:android:b3d64c4e1d309b7eb6fc65",
+        "android_client_info": {
+          "package_name": "com.example.posterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Dea2pZy-rwGAbBuWi4B3S_T0fA3dYt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510984954496:android:898be662a860a575b6fc65",
+        "android_client_info": {
+          "package_name": "com.example.videoswipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Dea2pZy-rwGAbBuWi4B3S_T0fA3dYt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
