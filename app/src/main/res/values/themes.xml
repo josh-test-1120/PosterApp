@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PosterApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.PosterApp" parent="Base.Theme.PosterApp" />
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+    </style>
+    <style name="RatingBar" parent="AppTheme">
+        <item name="colorControlActivated">@color/colorRatingActive</item>
+        <item name="colorControlNormal">@color/colorRatingInActive</item>
+    </style>
+</resources>

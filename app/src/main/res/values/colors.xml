@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="viewBackground">#FFD3D3D3</color>
+    <color name="posterBackground">#FFFAF9F6</color>
+    <color name="primaryColor">#FF416AD3</color>
+    <color name="colorAccent">#FFF4C430</color>
+    <color name="colorTextIcons">#FFFFFFFF</color>
+    <color name="colorTextPrimary">#FF212121</color>
+    <color name="colorRatingActive">#FFFDA14F</color>
+    <color name="colorRatingInActive">#FFC9C901</color>
+    <color name="colorBackground">#FFEEEEEE</color>
+</resources>
